@@ -62,7 +62,7 @@ The dataset covers the last 10 years of Argentine market history — a period th
 
 ## Results & outputs
 
-- 📊 **Interactive charts** (Plotly):
+- 📊 **Interactive Bloomberg-style charts** (Plotly):
   - Price series with regime classification overlaid
   - Regime transition timeline
   - Streak length distributions by regime
