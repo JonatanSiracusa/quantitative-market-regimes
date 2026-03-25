@@ -1,0 +1,8 @@
+pandas
+numpy
+hmmlearn
+statsmodels
+scipy
+yfinance
+plotly
+jupyter
